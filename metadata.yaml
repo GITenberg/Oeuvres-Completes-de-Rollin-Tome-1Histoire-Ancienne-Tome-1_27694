@@ -1,0 +1,39 @@
+_repo: Oeuvres-Completes-de-Rollin-Tome-1Histoire-Ancienne-Tome-1_27694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rollin, Charles
+    birthdate: 1661
+    deathdate: 1741
+    gutenberg_agent_id: '32850'
+    url: http://www.gutenberg.org/2009/agents/32850
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Rollin
+  editor:
+    agent_name: Letronne, M. (Antoine-Jean)
+    alias: Letronne, Antoine-Jean
+    birthdate: 1787
+    deathdate: 1848
+    gutenberg_agent_id: '32851'
+    url: http://www.gutenberg.org/2009/agents/32851
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- DE Prosa
+gutenberg_issued: '2009-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27694'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcc 'D'
+title: 'Oeuvres Completes de Rollin Tome 1
+
+  Histoire Ancienne Tome 1'
+url: http://www.gutenberg.org/ebooks/27694

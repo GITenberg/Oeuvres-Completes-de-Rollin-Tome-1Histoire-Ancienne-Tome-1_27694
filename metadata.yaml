@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '32851'
     url: http://www.gutenberg.org/2009/agents/32851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27694#Oeuvres-Completes-de-Rollin-Tome-1Histoire-Ancienne-Tome-1
 gutenberg_bookshelf:
 - FR Histoire
 - DE Prosa
